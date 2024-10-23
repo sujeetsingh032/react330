@@ -5,7 +5,7 @@ const lion = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQShH3o9jmL1U
 function Practice() {
   return (
     <div>
-      <h1>this is a practice page</h1>
+      <h1>this is a practice page 1</h1>
       <h2>return must have only single element </h2>
     </div>
   )
